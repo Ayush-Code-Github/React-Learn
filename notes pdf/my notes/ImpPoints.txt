@@ -1,0 +1,4 @@
+ep-4:
+creating a swiggy aap like website, now we should not directly write code, we should be having a proper plan and design for the same, and then only based on that planning should start to write code.
+Example: 1. how the header will look
+2. where the cards will be how boxes and pages we need to exactly we have to decide to design or app.
